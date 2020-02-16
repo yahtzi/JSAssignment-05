@@ -47,3 +47,6 @@ function reverseArray(y) {
 }
 console.log(reverseArray(["A", "B", "C"]));
 
+function reverseArrayInPlace() {
+    
+}
